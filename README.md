@@ -1,6 +1,6 @@
 # Calculator
 A simple, yet powerful calculator app using python with Tkinter library for Graphical User Interface
-Maje sure to install tkinter library by the following command :
+Make sure to install tkinter library by the following command :
 
 >pip install tkinter
 
